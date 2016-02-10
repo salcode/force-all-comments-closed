@@ -1,7 +1,7 @@
 Force All Comments Closed
 =========================
 
-WordPress plugin to force all comments to be closed.
+WordPress plugin to force all comments to be closed. This works by using the `comments_open` filter and setting it to false. Disabling the plugin will restore comments to their previous state.
 
 ## Problem
 
