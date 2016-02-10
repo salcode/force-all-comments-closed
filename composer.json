@@ -1,0 +1,10 @@
+{
+	"name": "salcode/force-all-comments-closed",
+	"description": "WordPress plugin to force all Comments to be Closed. This works by using the 'comments_open' filter and setting it to false. Disabling the plugin will restore comments to their previous state.",
+	"type": "wordpress-plugin",
+	"homepage": "https://github.com/salcode/force-all-comments-closed",
+	"license": "GPL-2.0+",
+	"require": {
+		"composer/installers": "~1.0"
+	}
+}
